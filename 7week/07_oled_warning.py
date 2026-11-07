@@ -87,3 +87,4 @@ finally:
     sensor.exit()
 
     # 프로그램을 종료할 때는 Ctrl + C
+    
